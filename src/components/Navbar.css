@@ -1,0 +1,10 @@
+.nav {
+  grid-area: n;
+  background-color: aqua;
+}
+.nav ul li {
+  list-style-type: none;
+}
+.nav a {
+  text-decoration: none;
+}
