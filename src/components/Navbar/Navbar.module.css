@@ -2,9 +2,11 @@
   grid-area: n;
   background-color: aqua;
 }
-.nav ul li {
+.item {
   list-style-type: none;
 }
-.nav a {
+
+.item a {
+  color: white;
   text-decoration: none;
 }
